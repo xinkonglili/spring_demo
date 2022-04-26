@@ -10,8 +10,5 @@
         <module name="spring-ioc-01" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="spring-ioc-01" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
