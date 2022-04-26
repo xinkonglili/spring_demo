@@ -42,7 +42,7 @@ public interface UserService {
 }
 ```
 
-- UserserviceImpl
+-  UserServiceImpl
 
 ```java
 //业务层
